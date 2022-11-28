@@ -1,0 +1,171 @@
+.nav-img {
+    background-image: url(pic/bwportraits_cover.jpg);
+}
+
+.page-head h1 {
+    letter-spacing: 10px;
+    font-weight: 600;
+}
+
+.page-head h4 {
+    letter-spacing: 5px;
+}
+
+.vertical-writting {
+    writing-mode: vertical-rl;
+}
+
+.navigation-bar {
+    background-image: url(pic/bwportraits_cover.jpg);
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+
+.overlap-image {
+    justify-content: flex-end;
+    position: relative;
+    z-index: 1;
+    top: -45px;
+}
+
+.overlap-image-direction {
+    justify-content: flex-end;
+}
+
+.background-color {
+    background-color: rgb(7, 138, 156);
+}
+
+.kein {
+    letter-spacing: 20px;
+    font-weight: 600;
+}
+
+.prayq {
+    font-size: medium;
+    letter-spacing: 10px;
+    text-transform: uppercase;
+}
+
+.prayq span {
+    border-bottom: 2px solid white;
+}
+
+.kein-division {
+    position: relative;
+    z-index: 1;
+    top: -115px;
+}
+
+.month-nav {
+    width: -webkit-fill-available;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.month-nav a {
+    color: black;
+    font-weight: 600;
+}
+
+.month-nav span a {
+    background-color: rgb(15, 106, 118);
+}
+
+.card img {
+    height: 25vh;
+}
+
+.jeune {
+    letter-spacing: 20px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.toutes {
+    font-size: medium;
+    letter-spacing: 10px;
+    text-transform: uppercase;
+}
+
+.children {
+    text-align: center;
+    position: relative;
+    z-index: 1;
+    top: 100px;
+}
+
+.jeune {
+    letter-spacing: 20px;
+    font-weight: 600;
+}
+
+.toutes {
+    text-transform: uppercase;
+}
+
+.toutes span {
+    border-bottom: 2px solid black;
+}
+
+.footer-clr {
+    background-color: #292727;
+}
+
+.magazine {
+    letter-spacing: 20px;
+    font-weight: 600;
+}
+
+.magazine-text {
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    font-size: small;
+}
+
+.magazine-text span {
+    border-bottom: 2px solid white;
+}
+
+.ftr-txt1 {
+    background-color: #292727;
+    position: relative;
+    z-index: 1;
+    bottom: 36px;
+    width: 82%;
+    text-transform: uppercase;
+    font-size: smaller;
+    letter-spacing: 3px;
+}
+
+.ftr-txt2 {
+    background-color: #292727;
+    position: relative;
+    z-index: 1;
+    bottom: 52px;
+    width: 82%;
+    text-transform: uppercase;
+    font-size: smaller;
+    letter-spacing: 3px;
+}
+
+.ftr-txt3 {
+    background-color: #292727;
+    background-color: #292727;
+    position: relative;
+    z-index: 1;
+    bottom: 52px;
+    width: 82%;
+    text-transform: uppercase;
+    font-size: smaller;
+    letter-spacing: 3px;
+}
+
+.all-card {
+    width: 100%;
+}
+
+.img-effect {
+    overflow: hidden;
+}
